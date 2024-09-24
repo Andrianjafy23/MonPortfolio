@@ -1,0 +1,16 @@
+.angled-background {
+  position: relative;
+  background-color:whitesmoke;
+  color: white;
+  height: 91vh;
+  clip-path: polygon(0 0, 100% 0, 75% 100%, 0% 100%); /* forme en polygone pour l'effet incliné */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -12px;
+}
+
+
+.soratra{
+  margin-top: 63px;
+}
