@@ -10,7 +10,7 @@ import './style1.css';
 
 function Apropos() {
   const [text, setText] = useState('');
-  const t = "hello! \n Je m'appelle Lazaniaina \n Je suis developpeur React.js| Node.js ";
+  const t = " Je m'appelle \n Lazaniaina \n Je suis developpeur \n React.js | Node.js ";
   const { getBackgroundColor } = useTheme();
 
   useEffect(() => {
